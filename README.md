@@ -42,13 +42,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adityasahu73/snake.svg" alt="Snake animation" />
-
-###
 
 <!---
 adityasahu73/adityasahu73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
